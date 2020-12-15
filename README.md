@@ -1,10 +1,34 @@
+### Hi there 👋
+
+- 🔭 I’m currently working on JS, Python
+- 🌱 I’m currently learning Advanced Typescript & Go
+- 🤔 I’m looking for & am uptodate with Frontend Everything
+- 👯 I’m looking to work with Ambitious Developers
+- 💬 Ask me about Fullstack in Node, Python, and Typescript
+- 📫 How to reach me: google -> ahmadalibaloch
+- 😄 Pronouns: Runner, Chess Player, Abstract, MultiDomain
+- ⚡ Fun fact: Writing a book "The Unlocking", to create original humans on earth free from cultural, childhood, family and self locks!
+
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
+[<img src="https://github-profile-trophy.vercel.app/?username=ahmadalibaloch&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadalibaloch&count_private=true&include_all_commits=true&show_icons=true" />
+
+
 # ahmadalibaloch github personal website
 Link:  [ahmadalibaloch.github.io](https://ahmadalibaloch.github.io/)
-
-
 ## What kind of technical stack have you used? Among them, which is the one you are good at using?
 
-> Javascript has been at the top for me in all my career (6+ years). In addition, I have
+> Javascript has been at the top for me in all my career (7+ years). In addition, I have
 experience with Python, .Net and now Node.js (Prisma, GraphQL) for backend
 development. On frontend, I have experience with React (3 years +) and Angular. I have
 extensive experience with data visualization (Echarts especially), mapping (open layers),
