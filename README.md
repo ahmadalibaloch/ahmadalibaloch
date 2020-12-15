@@ -7,7 +7,7 @@
 - 💬 Ask me about Fullstack in Node, Python, and Typescript
 - 📫 How to reach me: google -> ahmadalibaloch
 - 😄 Pronouns: Runner, Chess Player, Abstract, MultiDomain
-- ⚡ Fun fact: Writing a book "The Unlocking", to create original humans on earth free from cultural, childhood, family and self locks!
+- ⚡ Fun fact: Writing a book "The Unlocking", to grow original humans on earth free from cultural, childhood, family and self imposed locks!
 
 
 **Languages and Tools:**  
