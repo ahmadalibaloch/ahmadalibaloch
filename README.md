@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JS, Python
-- 🌱 I’m currently learning Advanced Typescript & Go
-- 🤔 I’m looking for & am uptodate with Frontend Everything
+- 🔭 I’m currently working on JS, Dart, Python
+- 🌱 I’m currently learning Dart, Advanced Typescript, Node Backend & Go
+- 🤔 I’m looking for & am updated with Frontend Everything
 - 👯 I’m looking to work with Ambitious Developers
 - 💬 Ask me about Fullstack in Node, Python, and Typescript
-- 📫 How to reach me: google -> ahmadalibaloch
-- 😄 Pronouns: Runner, Chess Player, Abstract, MultiDomain
+- 📫 How to reach me on social & profressional networks: google -> ahmadalibaloch
+- 😄 Pronouns: Runner, Chess Player, Writer, MultiDomain
 - ⚡ Fun fact: Writing a book "The Unlocking", to grow original humans on earth free from cultural, childhood, family and self imposed locks!
 
 
