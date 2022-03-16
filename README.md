@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JS, Dart, Python
+- 🔭 I’m currently working on JS, Typescript, Python, Dart, Kotlin
 - 🌱 I’m currently learning Dart, Advanced Typescript, Node Backend & Go
 - 🤔 I’m looking for & am updated with Frontend Everything
-- 👯 I’m looking to work with Ambitious Developers
-- 💬 Ask me about Fullstack in Node, Python, and Typescript
+- 👯 I’m looking to work with Ambitious Developers with quality over speed preference
+- 💬 Ask me about Fullstack in React (+Microfrontends) with Node (REST, GraphQL)
 - 📫 How to reach me on social & profressional networks: google -> ahmadalibaloch
-- 😄 Pronouns: Runner, Chess Player, Writer, MultiDomain
+- 😄 Pronouns: Runner, Chess Player, Writer, MultiDomain, Unlocked
 - ⚡ Fun fact: Writing a book "The Unlocking", to grow original humans on earth free from cultural, childhood, family and self imposed locks!
 
+**Life against keyboard:** 
+<code><img height="20" src="https://wakatime.com/badge/user/6a4cb66e-6f94-42af-a54b-ed5e4f285743.svg"></code>
 
-**Languages and Tools:**  
 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+**Languages and Tools:**  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
