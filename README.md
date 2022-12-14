@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on JS, Typescript, Python, Dart, Kotlin
 - 🌱 I’m currently learning Dart, Advanced Typescript, Node Backend & Go
 - 🤔 I’m looking for & am updated with Frontend Everything
-- 👯 I’m looking to work with Ambitious Developers with quality over speed preference
-- 💬 Ask me about Fullstack in React (+Microfrontends) with Node (REST, GraphQL)
+- 👯 I’m looking to work with Ambitious Developers who prefer quality over speed
+- 💬 Ask me about Fullstack in React, Nextjs (+Microfrontends) with Node (tRPC, REST, GraphQL), C# (OData)
 - 📫 How to reach me on social & profressional networks: google -> ahmadalibaloch
 - 😄 Pronouns: Runner, Chess Player, Writer, MultiDomain, Unlocked
 - ⚡ Fun fact: Writing a book "The Unlocking", to grow original humans on earth free from cultural, childhood, family and self imposed locks!
